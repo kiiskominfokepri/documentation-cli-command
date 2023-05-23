@@ -47,20 +47,20 @@ feat(delete_message) : `notification` in module_a
 Jika ada yang salah dan ingin ditambahkan silahkan clone dan push.
 
 ### Tambahan by @agamyusliman
-- **build** 
+- **(build)** 
 Perubahan yang memengaruhi sistem build atau dependensi eksternal (contoh cakupan (scope): gulp, broccoli, npm)
-- **ci**
+- **(ci)**
 Perubahan pada file konfigurasi dan skrip CI kami (contoh cakupan: Circle, BrowserStack, SauceLabs) // Skip
 docs: perubahan Dokumentasi
-- **feat**
+- **(feat)**
 Fitur baru
-- **fix**
+- **(fix)**
 Perbaikan bug
-- **perf**
+- **(perf)**
 Perubahan kode yang meningkatkan kinerja
-- **refactor**
+- **(refactor)**
 Perubahan kode yang tidak memperbaiki bug atau menambahkan fitur
-- **style**
+- **(style)**
 Perubahan yang tidak memengaruhi makna kode (white-space, pemformatan, tidak ada titik koma, etc)
-- **test**
+- **(test)**
 Menambahkan tes yang hilang atau mengoreksi tes yang ada
