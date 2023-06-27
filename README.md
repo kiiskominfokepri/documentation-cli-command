@@ -1,5 +1,5 @@
 # Rules Commit
-## Rules / Peraturan Commit Git Kominfo Kepri
+## Rules / Peraturan Commit Git by tim KIIS Kominfo Kepri
 
 ### add 
 Menambahkan Function di File bersangkutan
@@ -46,7 +46,7 @@ feat(delete_message) : `notification` in module_a
 ## Catatan
 Jika ada yang salah dan ingin ditambahkan silahkan clone dan push.
 
-### Tambahan by @agamyusliman
+### Tambahan
 - **(build)** 
 Perubahan yang memengaruhi sistem build atau dependensi eksternal (contoh cakupan (scope): gulp, broccoli, npm)
 - **(ci)**
