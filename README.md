@@ -7,7 +7,8 @@
 | Tag dan Rilis | [Klik Disini](https://github.com/kiiskominfokepri/documentation-cli-command/blob/main/tag-and-rilis/readme.md) |
 | Peraturan Commit | [Klik Disini](https://github.com/kiiskominfokepri/documentation-cli-command/blob/main/rules-commit/Readme.md) |
 | Membuat File .zip di MacOS | [Klik Disini](https://github.com/kiiskominfokepri/documentation-cli-command/blob/main/zip-macos/Readme.md) |
-| Langkah-langkah git | [Klik Disini](https://github.com/kiiskominfokepri/documentation-cli-command/blob/main/step-git/Dokumentasi-git.pdf) |
+| Langkah-langkah git (.pdf)| [Klik Disini](https://github.com/kiiskominfokepri/documentation-cli-command/blob/main/step-git/pdf/Dokumentasi-git.pdf) |
+| Langkah-langkah git (cli only)| [Klik Disini](https://github.com/kiiskominfokepri/documentation-cli-command/blob/main/step-git/cli/Readme.md) |
 
 
 Cheers 🎉
