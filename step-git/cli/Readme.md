@@ -1,9 +1,11 @@
 # Langkah-langkah / tutorial menggunakan git
 
+## Langkah Awal
+
 ### Langkah Awal ( Download )
 - Untuk langkah awal download dan install aplikasi / software git pada link ( [git-scm.com/download](https://git-scm.com/download) )
 
-### Langkah clone dan proses langkah utama
+### Clone project
 - Untuk mengambil project, silahkan cari repository di tempat dimana kamu menyimpan / mengambil project. Untuk contoh yang digunakan.
 
 ``````
@@ -49,3 +51,44 @@ git checkout -b "nama_branch_baru"
 ``````
 git checkout -b "nama_branch_baru"
 ``````
+
+## Memulai project dan langkah - langkah utama
+Disini akan mulai step / langkah - langkah / perintah - perintah utama yang sering digunakan dalam mengelola sebuah project
+
+### Menambahkan file ke staging
+Staging area adalah sebuah file, biasanya berada pada Git directory. File ini akan menyimpan informasi mengenai data mana saja yang akan masuk kedalam commit berikutnya. File ini biasanya disebut “index”, tapi biasa juga disebut staging area.
+Perintah yang digunakan adalah 
+
+``````
+git add all 
+``````
+
+atau 
+
+``````
+git add .
+``````
+
+atau jika hanya ingin file tertentu dapat menggunakan perintah 
+
+``````
+git add index.html
+``````
+
+### Membuat Commit / Pesan 
+Digunakan untuk menyimpan data beserta pesan apabila terjadi perubahan dan dilakukan pada repository jarak jauh, namun tidak bisa melakukan perubahan. Perintah yang digunakan :
+
+``````
+git commit -m "pesan commit"
+``````
+
+### Push hasil perubahan pada project ke repository online
+Digunakan untuk mengirimkan hasil revisi / perubahan yang sudah dibuat ke repository online
+``````
+git push origin nama_branch
+``````
+Keterangan:
+
+- **origin** adalah nama remote.
+- **nama_branch** adalah nama cabang / branch tujuan.
+
