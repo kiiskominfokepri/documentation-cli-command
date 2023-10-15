@@ -49,7 +49,7 @@ git checkout -b "nama_branch_baru"
 - Dan untuk sinkronasi / push kamu dapat menggunakan perintah
 
 ``````
-git checkout -b "nama_branch_baru"
+git push -u origin "nama_branch_baru"
 ``````
 
 ## Memulai project dan langkah - langkah utama
@@ -92,3 +92,28 @@ Keterangan:
 - **origin** adalah nama remote.
 - **nama_branch** adalah nama cabang / branch tujuan.
 
+## Apa yang terjadi jika kamu menjadi seorang 'main' dalam sebuah project
+Di tim KIIS Kominfo Kepri, seorang *Project Manager* bertugas dalam memimpin sebuah project, terkadang juga mempunyai tugas lebih seperti melakukan *merge* project dari semua branch. 
+
+### Langkah-langkah dalam melakukan merge
+Jika kamu bertugas sebagai project manager, kamu dapat menerapkan beberapa langkah perintah di bawah ini.
+
+#### Fetch data untuk mengambil 
+Untuk melakukan merge dapat memasukkan perintah di bawah ini 
+
+``````
+git fetch
+``````
+
+#### Perintah merge / menyatukan source dari berbagai branch 
+Untuk melakukan merge dapat memasukkan perintah di bawah ini 
+
+``````
+git merge "nama_branch_yang_ingin_disatukan"
+``````
+
+#### Push ke remote repository
+Langkah selanjutnya adalah push hasil merge ke remote repository
+``````
+git push -u origin main
+``````
