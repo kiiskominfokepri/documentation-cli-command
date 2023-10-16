@@ -92,7 +92,7 @@ Keterangan:
 - **origin** adalah nama remote.
 - **nama_branch** adalah nama cabang / branch tujuan.
 
-## Apa yang terjadi jika kamu menjadi seorang 'main' dalam sebuah project
+## Apa yang terjadi jika kamu menjadi seorang 'main' dalam sebuah project ?
 Di tim KIIS Kominfo Kepri, seorang *Project Manager* bertugas dalam memimpin sebuah project, terkadang juga mempunyai tugas lebih seperti melakukan *merge* project dari semua branch. 
 
 ### Langkah-langkah dalam melakukan merge
@@ -116,4 +116,15 @@ git merge "nama_branch_yang_ingin_disatukan"
 Langkah selanjutnya adalah push hasil merge ke remote repository
 ``````
 git push -u origin main
+``````
+
+## Apa yang terjadi jika kamu bertugas sebagai developer ?
+Di tim KIIS Kominfo Kepri, seorang *developer* bertugas dalam membangun sebuah project.
+
+### Langkah-langkah sebagai seorang developer.
+
+#### Fetch Data
+Jika kamu sudah mempunyai project di local kamu dapat langsung *fetch* data dengan memasukkan perintah dibawah ini
+``````
+git fetch
 ``````
