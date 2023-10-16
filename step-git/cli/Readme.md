@@ -128,3 +128,9 @@ Jika kamu sudah mempunyai project di local kamu dapat langsung *fetch* data deng
 ``````
 git fetch
 ``````
+
+##### Checkout atau berpindah ke branch sesuai nama 
+Untuk berpindah ke branch sesuai dengan nama atau yg ditugaskan dapat memasukkan perintah di bawah ini
+``````
+git checkout "nama_branch"
+``````
