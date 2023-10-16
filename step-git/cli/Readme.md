@@ -129,7 +129,7 @@ Jika kamu sudah mempunyai project di local kamu dapat langsung *fetch* data deng
 git fetch
 ``````
 
-##### Checkout atau berpindah ke branch sesuai nama 
+#### Checkout atau berpindah ke branch sesuai nama 
 Untuk berpindah ke branch sesuai dengan nama atau yg ditugaskan dapat memasukkan perintah di bawah ini
 ``````
 git checkout "nama_branch"
@@ -137,4 +137,5 @@ git checkout "nama_branch"
 
 *namun jika project belum ada di local kamu dapat -> [Ikuti langkah disini](https://github.com/kiiskominfokepri/documentation-cli-command/blob/main/step-git/cli/Readme.md#clone-project)* 
 
+#### Step / langkah umum setelah perubahan project
 Dan untuk selanjutnya kamu dapat [Ikuti langkah disini](https://github.com/kiiskominfokepri/documentation-cli-command/tree/main/step-git/cli#memulai-project-dan-langkah---langkah-utama)
