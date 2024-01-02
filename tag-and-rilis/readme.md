@@ -13,7 +13,7 @@ git tag -a v0.2.1 u4bgd123 -m "v0.2.1"
 
 2. Sync / push tag ke GitHub
 ```
-git push <head> <tag_name>
+git push <remote_name> <tag_name>
 ```
 
 Contoh
