@@ -9,6 +9,7 @@
 | Membuat File .zip di MacOS | [Klik Disini](https://github.com/kiiskominfokepri/documentation-cli-command/blob/main/zip-macos/Readme.md) |
 | Langkah-langkah git (.pdf)| [Klik Disini](https://github.com/kiiskominfokepri/documentation-cli-command/blob/main/step-git/pdf/Dokumentasi-git.pdf) |
 | Langkah-langkah git (cli only)| [Klik Disini](https://github.com/kiiskominfokepri/documentation-cli-command/blob/main/step-git/cli/Readme.md) |
+| Hapus folder .git di Mac OS| [Klik Disini](https://github.com/kiiskominfokepri/documentation-cli-command/blob/main/delete-folder-git-mac/readme.md) |
 
 
 Cheers 🎉
